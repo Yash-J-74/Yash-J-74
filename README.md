@@ -37,3 +37,6 @@
 [linkedin]: https://www.linkedin.com/in/yash-jagdale-799104206/
 [instagram]: https://www.instagram.com/yash_j_74/
 [gmail]: mailto:jagdaleyash74@gmail.com?subject=Connect%20with%20me
+<br><br>
+
+<img align="left" alt="My Github stat" src="https://github-readme-stats.vercel.app/api?username=Yash-J-74&show_icons=true&hide_border=true" />
