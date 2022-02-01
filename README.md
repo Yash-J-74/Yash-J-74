@@ -39,4 +39,6 @@
 [gmail]: mailto:jagdaleyash74@gmail.com
 <br><br>
 
+---
+
 <img align="left" alt="My Github stat" src="https://github-readme-stats.vercel.app/api?username=Yash-J-74&show_icons=true&hide_border=true" />
