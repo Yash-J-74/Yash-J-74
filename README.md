@@ -1,7 +1,7 @@
 ## Hi there, I'm Yash 👋
 
-### I'm a Student and a Front-end Web Developer
-- 🌱 I’m currently learning Front-end Web Development.
+### I'm a Student with interest in Machine Learning and Web Development.
+- 🌱 I’m currently learning Machine learning algorithms.
 - 🔭 I’m currently working on small web design projects of my own.
 - 🥅 2022 Goals: Learn basic back-end and create a portfolio website.
 - ⚡ Fun fact: I love to listen to rock and electronic music. I also play lawn tennis.
