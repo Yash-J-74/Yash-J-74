@@ -1,9 +1,9 @@
 ## Hi there, I'm Yash 👋
 
 ### I'm a Student with interest in Machine Learning and Web Development.
-- 🌱 I’m currently learning Machine learning algorithms.
-- 🔭 I’m currently working on small web design projects of my own.
-- 🥅 2022 Goals: Learn basic back-end and create a portfolio website.
+- 🌱 I’m currently learning Machine learning algorithms and NLP.
+- 🔭 I’m currently learning data analysis using python.
+- 🥅 2023 Goals: Learn DBMS and create a ML model for a problem statement.
 - ⚡ Fun fact: I love to listen to rock and electronic music. I also play lawn tennis.
 
 ## Tools I use:
@@ -24,8 +24,6 @@
 <br>
 
 ## Languages I plan to learn:
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <br><br>
 
