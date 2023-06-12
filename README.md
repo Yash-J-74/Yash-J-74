@@ -1,9 +1,9 @@
 ## Hi there, I'm Yash 👋
 
-### I'm a Student with interest in Machine Learning and Web Development.
+### I'm a Student with interest in Machine Learning and NLP.
 - 🌱 I’m currently learning Machine learning algorithms and NLP.
 - 🔭 I’m currently learning data analysis using python.
-- 🥅 2023 Goals: Learn DBMS and create a ML model for a problem statement.
+- 🥅 2023 Goals: Learn DBMS and create a custom Deep Learning model.
 - ⚡ Fun fact: I love to listen to rock and electronic music. I also play lawn tennis.
 
 ## Tools I use:
