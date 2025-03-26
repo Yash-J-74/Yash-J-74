@@ -1,8 +1,8 @@
 ## Hi there, I'm Yash 👋
 
 ### I'm a Student interested in Machine Learning/Deep Learning and full-stack development.
-- 🔭 I’m currently learning full-stack development using Angular, Spring-boot and PostgreSQL.
-- 🥅 2024 Goals: Create a custom Deep Learning model and host it on the web.
+- 🔭 I’m currently MLOps and model deployment on a large scale.
+- 🥅 2025 Goals: Create a custom Deep Learning model and host it online.
 - ⚡ Fun fact: I love to listen to rock and electronic music. I also play lawn tennis.
 
 ## Tools I use:
